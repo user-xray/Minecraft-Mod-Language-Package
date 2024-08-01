@@ -1,0 +1,74 @@
+{
+
+tweakeroo.gui.button.config_gui.disable_hotkeys=Tweak无热键
+tweakeroo.gui.button.config_gui.disable_toggle=TweakNo 切换
+tweakeroo.gui.button.config_gui.fixes=修复
+tweakeroo.gui.button.config_gui.generic=通用
+tweakeroo.gui.button.config_gui.generic_hotkeys=通用热键
+tweakeroo.gui.button.config_gui.lists=列表
+tweakeroo.gui.button.config_gui.placement=放置的东西
+tweakeroo.gui.button.config_gui.tweak_hotkeys=调整热键
+tweakeroo.gui.button.config_gui.tweak_toggles=调整切换
+
+tweakeroo.gui.button.misc.command_block.set_name=设置名称
+tweakeroo.gui.button.misc.command_block.update_execution=循环： %s
+
+tweakeroo.gui.button.misc.command_block.hover.update_execution=是否允许每个游戏有多个触发器
+
+tweakeroo.gui.title.configs=Tweakeroo 配置
+
+tweakeroo.hotkeys.category.disable_toggle_hotkeys=禁用切换热键
+tweakeroo.hotkeys.category.generic_hotkeys=通用热键
+tweakeroo.hotkeys.category.tweak_toggle_hotkeys=调整切换热键
+
+tweakeroo.label.placement_restriction_mode.column=列
+tweakeroo.label.placement_restriction_mode.diagonal=对角线
+tweakeroo.label.placement_restriction_mode.face=脸部
+tweakeroo.label.placement_restriction_mode.layer=图层
+tweakeroo.label.placement_restriction_mode.line=线
+tweakeroo.label.placement_restriction_mode.plane=平面
+
+tweakeroo.label.config_comment.single_player_only=§6注意：此功能要么完全有效，要么至少在单人游戏中完全有效§r
+
+tweakeroo.label.snap_aim_mode.both=偏航和俯仰
+tweakeroo.label.snap_aim_mode.pitch=间距
+tweakeroo.label.snap_aim_mode.yaw=偏航
+
+tweakeroo.message.potion_effects_running_out=§6！！警告 - %s 药水效果即将在 %s 秒内耗尽！！§r
+tweakeroo.message.repair_mode.swapped_repairable_item_to_slot=已将可修复项目交换到 %s 插槽
+tweakeroo.message.set_after_clicker_count_to=将“点击器计数后”设置为 %s
+tweakeroo.message.set_breaking_grid_size_to=将 Breaking Grid size 设置为 %s
+tweakeroo.message.set_breaking_restriction_mode_to=将突破限制模式设置为 %s
+tweakeroo.message.set_fly_speed_preset_to=切换到飞行速度预设%s（速度：%s）
+tweakeroo.message.set_fly_speed_to=设置预设%s的飞行速度为%s
+tweakeroo.message.set_hotbar_slot_cycle_max_to=将 Hotbar Slot Cycle max slot 设置为 %s
+tweakeroo.message.set_hotbar_slot_randomizer_max_to=将 Hotbar Slot Randomizer max slot 设置为 %s
+tweakeroo.message.set_placement_grid_size_to=将放置网格大小设置为 %s
+tweakeroo.message.set_placement_limit_to=将放置限制设置为 %s
+tweakeroo.message.set_placement_restriction_mode_to=将放置限制模式设置为 %s
+tweakeroo.message.set_snap_aim_pitch_step_to=将 Snap Aim 俯仰步长设置为 %s
+tweakeroo.message.set_snap_aim_yaw_step_to=将 Snap Aim 偏航步长设置为 %s
+tweakeroo.message.set_zoom_fov_to=将变焦 FOV 设置为 %s
+tweakeroo.message.sign_text_copied=签署已复制的文本
+tweakeroo.message.snapped_to_pitch=捕捉到音高 %s
+tweakeroo.message.snapped_to_yaw=捕捉到偏航 %s
+tweakeroo.message.swapped_low_durability_item_for_better_durability=将耐久度低的物品换成耐久度更高的物品
+tweakeroo.message.swapped_low_durability_item_for_dummy_item=将低耐久度物品换成虚拟物品
+tweakeroo.message.swapped_low_durability_item_off_players_hand=从玩家的手上换下一件低耐久度的物品
+tweakeroo.message.toggled=切换 %s %s
+tweakeroo.message.toggled_after_clicker_on=切换 点击器调整后 %s，点击次数：%s
+tweakeroo.message.toggled_breaking_grid_on=切换的中断网格调整 %s，网格间隔：%s
+tweakeroo.message.toggled_fly_speed_on=切换飞行速度调整 %s，预设：%s，速度：%s
+tweakeroo.message.toggled_fast_placement_mode_on=切换快速放置模式 %s，模式：%s
+tweakeroo.message.toggled_placement_grid_on=切换放置网格调整 %s，网格间隔：%s
+tweakeroo.message.toggled_placement_limit_on=切换放置限制调整 %s，限制：%s
+tweakeroo.message.toggled_slot_cycle_on=切换的热条插槽周期调整 %s，最大插槽：%s
+tweakeroo.message.toggled_slot_randomizer_on=切换的热条插槽随机化器调整 %s，最大插槽：%s
+tweakeroo.message.toggled_snap_aim_on_both=切换偏航和俯仰捕捉瞄准 %s，偏航步长 %s，俯仰步长 %s
+tweakeroo.message.toggled_snap_aim_on_pitch=切换的俯仰捕捉瞄准 %s，俯仰步长 %s 度
+tweakeroo.message.toggled_snap_aim_on_yaw=切换偏航捕捉瞄准 %s，偏航步长 %s 度
+tweakeroo.message.toggled_zoom_on=切换缩放 %s，FOV：%s
+tweakeroo.message.value.off=关闭
+tweakeroo.message.value.on=开
+
+}
